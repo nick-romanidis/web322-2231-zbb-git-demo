@@ -34,8 +34,8 @@ app.get("/", function (req, res) {
         {
             name: "Jane",
             age: 33,
-            occupation: "Manager",
-            company: "RBC",
+            occupation: "VP",
+            company: "Scotiabank",
             visible: true
         }
     ];
